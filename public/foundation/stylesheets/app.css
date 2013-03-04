@@ -1,0 +1,13 @@
+/* Artfully masterminded by ZURB  */
+#main-title {
+    margin-bottom: 5px; 
+}
+header {
+  background-color: orange
+}
+footer {
+  background-color: black;
+}
+.bottom-text {
+    color:white;
+}
